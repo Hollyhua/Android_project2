@@ -33,13 +33,14 @@ The following STRETCH features are implemented:
 
 The following EXTRA features are implemented:
 
-- [ ] List anything else that you added to improve the app!
+- [x] List anything else that you added to improve the app!
+- [x] Changed the background color after each button click except for the random color button
 
 ## Video Demo
 
 Here's a video / GIF that demos all of the app's implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Demo' width='' alt='Video Demo' />
+<img src='https://imgur.com/T2LMVdR.gif' title='Video Demo' width='' alt='Video Demo' />
 
 GIF created with **your chosen GIF tool**
 
